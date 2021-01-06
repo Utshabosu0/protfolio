@@ -1,0 +1,113 @@
+h1{
+    font-size: xx-large;
+    font-family: 'Staatliches', cursive;
+}
+h2{
+    font-size: large;
+}
+.colour{
+    color: lightsalmon;
+}
+.half-width{
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+    float: left
+}
+.half-width img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    color: wheat;
+    border-radius: 3px;
+    background-image: linear-gradient(180deg,lightsalmon,tomato);
+    padding: 10px 25px;
+    font-size: large;
+}
+p{
+    height: 80px;
+}
+section{
+    height: 550px;
+}
+#full{
+    margin-left: 5%;
+    
+    
+}
+h3{
+    color: rgb(236, 160, 19);
+}
+span{
+    color: rgb(245, 8, 8);
+}
+#center{
+    text-align: center;
+}
+.width{
+    width: 25%;
+    display:inline-block;
+    box-shadow: 2px 2px 10px rgb(148, 145, 145);
+    border-radius: 10px;
+    height: 400px;
+    background-color: white;
+    margin-left: 5%;
+    
+}
+#last{
+    background-image: url("Group_33094_1.png");
+    margin: 20%;
+    background-repeat: no-repeat;
+    height: 220px;
+    background-position: center;
+    border-radius: 30px;
+    
+    
+}
+#big{
+    font-size: 50px;
+    text-align: center;
+    color:white;
+}
+#short{
+   
+   
+    color: wheat;
+    border-radius: 3px;
+    text-decoration: underline;
+    background-image: linear-gradient(180deg,lightsalmon,tomato);
+    padding: 10px 25px;
+    font-size: large;
+    margin: 90px;
+}
+#small{
+    text-align: center;
+    margin-bottom: 1000px;
+}
+.full-width{
+    display:inline-block;
+}
+#tier {
+    text-align: right;
+
+}
+.top-banner{
+    border: 1px  darkcyan;
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0;
+}
+.dream-area{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experience-dream{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
